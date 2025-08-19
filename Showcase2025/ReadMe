@@ -1,2 +1,5 @@
 This repository includes a core ontology for biomimetics. 
 NB: The ontology is at the evaluation stage. 
+
+"bionik.owl" file contains the ontology
+"Bionik OWL_August25.zip" includes all the imported classes and the ontology's OWL file. 
